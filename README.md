@@ -1,0 +1,1 @@
+Vuejs, bower and babel skeleton for brunch.
