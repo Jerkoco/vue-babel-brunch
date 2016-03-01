@@ -1,0 +1,1 @@
+folder for templates (jade etc...), styles (less, sass) and scripts (es6, cofee, typescript)
